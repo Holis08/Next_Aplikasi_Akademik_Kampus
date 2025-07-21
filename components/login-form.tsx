@@ -72,7 +72,7 @@ export function LoginForm({
             <div className="grid gap-6">
               <div className="grid gap-6">
                 <div className="grid gap-3">
-                  <Label htmlFor="text">NIM</Label>
+                  <Label htmlFor="text">Nim</Label>
                   <Input
                     id="NIM"
                     type="text"
